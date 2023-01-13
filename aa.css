@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+   background-color: black
+}
+.navbar-brand strong ,span {
+padding: 5px 10px;
+font-weight: bold;
+}
+
+.offcanvas-body{
+    height: 100vh;
+    font-weight: bold ;
+    padding: 10rem 50rem;
+    text-align: center;
+}
+.offcanvas-body button{
+    height: 5rem;
+    width: 30rem;
+   
+}
+.masthead{
+    font-size:15px ;
+    height: 50vh;
+  line-height:20px; 
+  padding-top: 20rem;
+  padding-left: 8rem;
+   
+}
+header{
+    height: 80vh;
+}
+.btn1 button{
+    height: 5rem;
+    width: 30rem;
+    margin-left: 5rem;
+  
+}
+button:hover .btn1{
+    background-color: aquamarine;
+    background-color: rgba(90, 207, 196, 0.897);
+}
+#two .inner{
+    padding:10rem ;
+    font-weight: lighter;
+    font-size: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 30px;
+}
+
+footer {
+    justify-content: center;
+}
+footer .inner button{
+    justify-content: center;
+    color: black;
+    height: 5rem;
+    width: 5rem;
+}
+#contact form{
+    border-style: groove;
+    box-shadow: black;
+}
+
+#Landing .jumbotron{
+    margin-top: 10rem;
+    height: 50vh;
+    background-color:rgb(165, 60, 18);
+    background-image: url(image/pic3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
